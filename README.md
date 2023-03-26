@@ -6,3 +6,5 @@ La sfârșit am implementat și un apel la chatgpt să ne ofere răspunsul corec
 
 #### EN:
 This projects aims to help a person search quicly for information in a manual, especially the car ones. We are using sentence-transformer embeddings, as well as embeddings from OpenAI. At the end we also implemented a call to chatgpt to offer the final answer to the question using the relevant pages found using the embeddings.
+
+Disclaimer: You will need a pdf and an OpenAI key to fully run this project.
